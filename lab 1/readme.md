@@ -1,5 +1,7 @@
 ## Lab 1
 
+TEAMS CODE: px4b8sx
+
 1. install git to local PC https://git-scm.com/download/win
 2. register in github https://github.com/
 3. solve 13 topics from githowto https://githowto.com/ru
